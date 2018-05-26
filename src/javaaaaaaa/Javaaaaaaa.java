@@ -40,7 +40,8 @@ public class Javaaaaaaa {
 ////        }
 ////        t.abcd();
 //
-        new talkable_clock().abcdefg();
+//        new talkable_clock().abcdefg();
+        new tmar_matha().ab();
     }
     
 }

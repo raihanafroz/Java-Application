@@ -10,5 +10,7 @@ package javaaaaaaa;
  * @author hp
  */
 public class tmar_matha {
-    
+    void ab(){
+        System.out.println("tmar_Matha");
+    }
 }
