@@ -39,8 +39,8 @@ public class Javaaaaaaa {
 //            NewClass t=new NewClass("It's  "+hh+","+mm+""+fr);
 ////        }
 ////        t.abcd();
-//
-//        new talkable_clock().abcdefg(); 123123123123123ss
+//        new talkable_clock().abcdefg(); 123123123123
+
         new tmar_matha().ab();
     }
     
